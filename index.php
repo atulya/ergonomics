@@ -12,6 +12,10 @@
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
+
+        <link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
+        <link href="js/owl-carousel/owl.theme.css" rel="stylesheet">
+
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
@@ -55,45 +59,18 @@
             </div>
           </div>
           <div class="row">
-            <a href="" class="logoImg">col-md-4</a>
+            <a href="" class="logoImg"><img src="img/logo.png" alt=""></a>
           </div>
         </div>
       </div>
-
-      <nav class="navbar menuBar" role="navigation">
-        <div class="container">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <h1><a class="navbar-brand" href="#">Ergonimics</a></h1>
-          </div>
-          <div id="navbar" class="navbar-collapse collapse navigation">
-            <ul class="nav navbar-nav pull-right">
-              <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-              <li><a href="#">About Us</a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="#">Separated link</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="#">One more separated link</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Products</a></li>
-              <li><a href="#">Contact Us</a></li>
-            </ul>
-          </div><!--/.navbar-collapse -->
-        </div>
-      </nav>
-
+  <?php include "menu.php" ?>
+  <div class="container headerBannersBg visible-xs visible-sm visible-md ">
+    <div id="owl-demo" class="owl-carousel owl-theme">
+      <div class="item"><img src="assets/fullimage1.jpg" alt="The Last of us"></div>
+      <div class="item"><img src="assets/fullimage2.jpg" alt="GTA V"></div>
+      <div class="item"><img src="assets/fullimage3.jpg" alt="Mirror Edge"></div>
+    </div>
+  </div>
     <!-- Main jumbotron for a primary marketing message or call to action -->
 
     <div class="container-fluid content">
@@ -113,34 +90,34 @@
        </div>
       </div>
       </div>
-      <div class="container">
-      <div class="row">
-        <div class="col-md-8 height-280 footerUsp">
-          <a href="javascript:void(0);">
-            <img src="img/officeFooter.png" alt="Office">
-          </a>
-          <h3 class="footerUspTitle">Office</h3>
+      <div class="container hidden-xs hidden-sm hidden-md">
+        <div class="row">
+          <div class="col-md-8 height-280 footerUsp">
+            <a href="javascript:void(0);">
+              <img src="img/officeFooter.png" alt="Office">
+            </a>
+            <h3 class="footerUspTitle">Office</h3>
+          </div>
+          <div class="col-md-4 height-280 footerUsp">
+            <a href="javascript:void(0);">
+              <img src="img/industrialFooter.png" alt="Industrial Footer">
+            </a>
+            <h3 class="footerUspTitle">Industrial</h3>
+          </div>
+          <div class="col-md-4 height-280 footerUsp">
+            <a href="javascript:void(0);">
+              <img src="img/outdoorsFooter.png" alt="Outdoors Footer">
+            </a>
+            <h3 class="footerUspTitle">Outdoor</h3>
+          </div>
+          <div class="col-md-8 height-280 footerUsp">
+            <a href="javascript:void(0);">
+              <img src="img/residentialFooter.png" alt="Residential Footer">
+            </a>
+            <h3 class="footerUspTitle">Residential</h3>
+          </div>
         </div>
-        <div class="col-md-4 height-280 footerUsp">
-          <a href="javascript:void(0);">
-            <img src="img/industrialFooter.png" alt="Industrial Footer">
-          </a>
-          <h3 class="footerUspTitle">Industrial</h3>
-        </div>
-        <div class="col-md-4 height-280 footerUsp">
-          <a href="javascript:void(0);">
-            <img src="img/outdoorsFooter.png" alt="Outdoors Footer">
-          </a>
-          <h3 class="footerUspTitle">Outdoor</h3>
-        </div>
-        <div class="col-md-8 height-280 footerUsp">
-          <a href="javascript:void(0);">
-            <img src="img/residentialFooter.png" alt="Residential Footer">
-          </a>
-          <h3 class="footerUspTitle">Residential</h3>
-        </div>
-      </div>
-    </div> <!-- /container -->
+      </div> <!-- /container -->
       <footer class="container-fluid">
         <div class="container">
         <div class="row">
@@ -194,6 +171,9 @@
 
         <script src="js/vendor/bootstrap.min.js"></script>
 
+        <!-- Owl Carousel Assets -->
+        <script src="js/owl-carousel/owl.carousel.js"></script>
+
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
 
@@ -205,6 +185,20 @@
             e.src='//www.google-analytics.com/analytics.js';
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+            $(document).ready(function() {
+              $("#owl-demo").owlCarousel({
+                  navigation : true, // Show next and prev buttons
+                  slideSpeed : 300,
+                  paginationSpeed : 400,
+                  singleItem:true
+                  // "singleItem:true" is a shortcut for:
+                  // items : 1,
+                  // itemsDesktop : false,
+                  // itemsDesktopSmall : false,
+                  // itemsTablet: false,
+                  // itemsMobile : false
+              });
+            });
         </script>
     </body>
 </html>

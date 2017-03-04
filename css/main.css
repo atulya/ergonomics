@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5{
 a{
   color: #333;
 }
+ul li,
 p{
   font-size: 18px;
   font-weight: 300;
@@ -76,7 +77,7 @@ p{
   padding-top: 13px;
 }
 .content h2{
-  margin: 40px 0;
+  margin: 40px 0 10px 0;
 }
 .services {
   margin-top: 10px;
@@ -133,5 +134,56 @@ footer ul li{
   font-size: 18px;
   font-family: 'NeutraDisp-Titling';
   font-weight: 300;
-  letter-spacing: 2px;
+  /*letter-spacing: 2px;*/
 }
+.dropdown-menu>li>a{
+  font-family: arial;
+  text-transform: none;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.navbar-toggle{
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+}
+.navbar-toggle .icon-bar{
+  border: 1px solid #ccc;
+}
+.title{
+  padding-bottom: 10px;
+  position: absolute;
+  bottom: 30px;
+  font-size: 48px !important;
+  background-color: rgba( 255, 255, 255, 0.4 );
+  padding: 10px;
+  border: 1px solid #999;
+}
+.banner{
+  position: relative;
+  background-size: cover;
+  background-position: center center;
+  height: 350px;
+  margin: 0;
+}
+.aboutusBanner{
+  background-image: url(../img/about-us.png);
+}
+.servicesBanner{
+  background-image: url(../img/services.png);
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  .navigation{
+    position: absolute;
+    width: 100%;
+    z-index: 5;
+    background-color: #fff;
+  }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) { ... }
