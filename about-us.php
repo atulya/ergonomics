@@ -28,7 +28,9 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
-          <h2>Commercial, Industrial, Residential Interiors products &amp; services</h2>
+          <h2>
+            Interiors products &amp; services for Commercial Office, Industrial, Residential Primises
+          </h2>
           <p class="text-center"><strong> Connecting the clients to rite products and services in to Industrial ,commercial and residential Interiors. </strong></p>
           <hr>
           <p>
