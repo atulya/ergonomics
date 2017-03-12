@@ -14,9 +14,10 @@
 body{
   background-color: #fafafa;
   font-family: 'Roboto', sans-serif;
+  border-top: 4px solid #3af23a;
 }
 h1, h2, h3, h4, h5{
-  font-family: 'NeutraDisp-Titling';
+  /*font-family: 'NeutraDisp-Titling';*/
 }
 a{
   color: #333;
@@ -72,9 +73,9 @@ p{
   background-color: #fff;
 }
 .menuBar{
-  height: 80px;
+  height: 120px;
   background-color: #fff;
-  padding-top: 13px;
+  padding-top: 35px;
 }
 .content h2{
   margin: 40px 0 10px 0;
@@ -132,12 +133,12 @@ footer ul li{
 .navigation{
   text-transform: uppercase;
   font-size: 18px;
-  font-family: 'NeutraDisp-Titling';
+  /*font-family: 'NeutraDisp-Titling';*/
   font-weight: 300;
   /*letter-spacing: 2px;*/
 }
 .dropdown-menu>li>a{
-  font-family: arial;
+  /*font-family: arial;*/
   text-transform: none;
 }
 #owl-demo .item img{
@@ -156,6 +157,8 @@ footer ul li{
   padding-bottom: 10px;
   position: absolute;
   bottom: 30px;
+  left: 43%;
+  text-transform: uppercase;
   font-size: 48px !important;
   background-color: rgba( 255, 255, 255, 0.4 );
   padding: 10px;
@@ -167,12 +170,30 @@ footer ul li{
   background-position: center center;
   height: 350px;
   margin: 0;
+  overflow: hidden;
 }
+
 .aboutusBanner{
   background-image: url(../img/about-us.png);
 }
 .servicesBanner{
   background-image: url(../img/services.png);
+}
+.nav>li>a:hover,
+.nav>li>a:focus{
+  background-color: transparent;
+  color: #000;
+  text-decoration: underline;
+}
+.navbar{
+  margin-bottom: 0;
+}
+.navbar-nav>li>a,
+.navbar-nav>li>a:hover{
+  text-decoration: none;
+}
+.dropdown-menu>li>a{
+  padding: 7px 37px;
 }
 
 /* Landscape phone to portrait tablet */
