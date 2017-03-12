@@ -26,7 +26,7 @@
       </div>
     </section>
     <!-- Gallery section -->
-    <section id="gallery" class="parallax-section">
+    <section class="parallax-section">
       <div class="container">
         <div class="row">
           <div class="expert col-md-12">

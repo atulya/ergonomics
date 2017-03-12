@@ -26,19 +26,13 @@
       </div>
     </section>
     <!-- Gallery section -->
-    <section id="about" class="parallax-section">
+    <section class="parallax-section">
       <div class="container">
         <div class="row">
-          <div class="col-md-12 col-sm-12">
-            <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
-              <h2>Services we are associated with :</h2>
-            </div>
-          </div>
-          <div class="clearfix"></div>
           <div class="wow fadeInUp col-md-12 col-sm-12 " data-wow-delay="0.5s">
             <!-- flexslider -->
-            <div class="flexslider">
               <p>
+              <strong>Services we are associated with :</strong><br>
                 Chairs repairs and AMC <br>
                 Furniture reconfiguration, rework and servicing<br>
                 Electrical and networking consultancy and products, and services.<br>
@@ -48,7 +42,6 @@
                 Carpentry Services<br>
                 Painting -Internal and external
               </p>
-            </div>
           </div>
         </div>
       </div>

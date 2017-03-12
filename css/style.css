@@ -73,6 +73,7 @@ a:focus {
 .parallax-section {
   background-attachment: fixed !important;
   background-size: cover !important;
+  margin-bottom: 20px;
 }
 
 /* hover min css */
@@ -720,25 +721,24 @@ footer strong {
   padding: 0;
 }
 .expert ul{
-  width: 98%;
-  margin: 0 auto;
+  text-align: center;
 }
 .expert ul li{
-  float: left;
+  display: inline-block;
   list-style: none;
-  width: 350px;
+  width: 285px;
   margin-bottom: 30px;
-  margin-left: 0;
+  margin-left: -3px;
 }
 .expert ul li .expertImg{
   height: 300px;
-  width: 350px;
+  width: 285px;
   background-color: #f8f8f8;
   position: relative;
 }
 .expert ul li .expertImg img{
   height: 300px;
-  width: 350px;
+  width: 285px;
 }
 .expert ul li .expertTitle{
   height: 100px;
