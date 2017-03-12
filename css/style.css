@@ -714,7 +714,44 @@ footer strong {
   color: #ffffff;
 }
 
-
+.expert ul,
+.expert ul li{
+  margin: 0;
+  padding: 0;
+}
+.expert ul{
+  width: 98%;
+  margin: 0 auto;
+}
+.expert ul li{
+  float: left;
+  list-style: none;
+  width: 350px;
+  margin-bottom: 30px;
+  margin-left: 0;
+}
+.expert ul li .expertImg{
+  height: 300px;
+  width: 350px;
+  background-color: #f8f8f8;
+  position: relative;
+}
+.expert ul li .expertImg img{
+  height: 300px;
+  width: 350px;
+}
+.expert ul li .expertTitle{
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  background-color: rgba( 0, 0, 0, 0.6);
+}
 
 /* Mobile Responsive */
 @media (max-width: 980px) {

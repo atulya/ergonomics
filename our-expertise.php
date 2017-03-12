@@ -29,168 +29,49 @@
     <section id="gallery" class="parallax-section">
       <div class="container">
         <div class="row">
-          <div class="col-md-12">
-            <!-- iso section -->
-            <div class="iso-section wow fadeInUp" data-wow-delay="0.6s">
-              <ul class="filter-wrapper clearfix">
-                <li>
-                  <a href="#" data-filter="*" class="selected opc-main-bg">
-                    All
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="opc-main-bg" data-filter=".breakfast">
-                    MODULAR FURNITURE
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="opc-main-bg" data-filter=".pizza">
-                    OFFICE CHAIRS
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="opc-main-bg" data-filter=".lunch">
-                    PARTITIONS
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="opc-main-bg" data-filter=".dinner">
-                    FALSE CEILINGS
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="opc-main-bg" data-filter=".dinner">
-                    INTERIORS &amp; EXTERIORS
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="opc-main-bg" data-filter=".dinner">
-                    RESIDENTIAL INTERIORS
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="opc-main-bg" data-filter=".dinner">
-                    Other Products
-                  </a>
-                </li>
-              </ul>
-              <!-- iso box section -->
-              <div class="iso-box-section wow fadeInUp" data-wow-delay="0.9s">
-                <div class="iso-box-wrapper col4-iso-box">
-                  <div class="iso-box breakfast pizza lunch col-md-4 col-sm-6">
-                    <div class="gallery-thumb">
-                      <a href="images/gallery-img1.jpg" data-lightbox-gallery="food-gallery">
-                        <img src="images/gallery-img1.jpg" class="fluid-img" alt="Gallery">
-                        <div class="gallery-overlay">
-                          <div class="gallery-item">
-                            <i class="fa fa-search"></i>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <h3>Lorem One</h3>
-                  </div>
-                  <div class="iso-box breakfast lunch dinner col-md-4 col-sm-6">
-                    <div class="gallery-thumb">
-                      <a href="images/gallery-img2.jpg" data-lightbox-gallery="food-gallery">
-                        <img src="images/gallery-img2.jpg" class="fluid-img" alt="Gallery">
-                        <div class="gallery-overlay">
-                          <div class="gallery-item">
-                            <i class="fa fa-search"></i>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <h3>Lorem ipsum two</h3>
-                  </div>
-                  <div class="iso-box dinner col-md-4 col-sm-6">
-                    <div class="gallery-thumb">
-                      <a href="images/gallery-img3.jpg" data-lightbox-gallery="food-gallery">
-                        <img src="images/gallery-img3.jpg" class="fluid-img" alt="Gallery">
-                        <div class="gallery-overlay">
-                          <div class="gallery-item">
-                            <i class="fa fa-search"></i>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <h3>Third Lorem ipsum</h3>
-                  </div>
-                  <div class="iso-box breakfast col-md-4 col-sm-6">
-                    <div class="gallery-thumb">
-                      <a href="images/gallery-img4.jpg" data-lightbox-gallery="food-gallery">
-                        <img src="images/gallery-img4.jpg" class="fluid-img" alt="Gallery">
-                        <div class="gallery-overlay">
-                          <div class="gallery-item">
-                            <i class="fa fa-search"></i>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <h3>Lorem ipsum fourth</h3>
-                  </div>
-                  <div class="iso-box lunch col-md-4 col-sm-6">
-                    <div class="gallery-thumb">
-                      <a href="images/gallery-img5.jpg" data-lightbox-gallery="food-gallery">
-                        <img src="images/gallery-img5.jpg" class="fluid-img" alt="Gallery">
-                        <div class="gallery-overlay">
-                          <div class="gallery-item">
-                            <i class="fa fa-search"></i>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <h3>Fifth Lorem ipsum</h3>
-                  </div>
-                  <div class="iso-box pizza lunch col-md-4 col-sm-6">
-                    <div class="gallery-thumb">
-                      <a href="images/gallery-img6.jpg" data-lightbox-gallery="food-gallery">
-                        <img src="images/gallery-img6.jpg" class="fluid-img" alt="Gallery">
-                        <div class="gallery-overlay">
-                          <div class="gallery-item">
-                            <i class="fa fa-search"></i>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <h3>Sixth Lorem ipsum</h3>
-                  </div>
-                </div>
-              </div>
-            </div>
+          <div class="expert col-md-12">
+            <ul>
+              <li>
+                <div class="expertImg">
+                  <img src="images/gallery-img8.jpg" class="img-responsive" alt="Expert Image">
+                  <div class="expertTitle">MODULAR FURNITURE</div>
+                </div></li>
+              <li>
+                <div class="expertImg">
+                  <img src="images/gallery-img1.jpg" class="img-responsive" alt="Expert Image">
+                  <div class="expertTitle">OFFICE CHAIRS</div>
+                </div></li>
+              <li>
+                <div class="expertImg">
+                  <img src="images/gallery-img6.jpg"  class="img-responsive" alt="Expert Image">
+                  <div class="expertTitle">PARTITIONS</div>
+                </div></li>
+              <li>
+                <div class="expertImg">
+                  <img src="images/gallery-img2.jpg"  class="img-responsive" alt="Expert Image">
+                  <div class="expertTitle">FALSE CEILINGS</div>
+                </div></li>
+              <li>
+                <div class="expertImg">
+                  <img src="images/gallery-img5.jpg"  class="img-responsive" alt="Expert Image">
+                  <div class="expertTitle">INDUSTRIAL INTERIORS &amp; EXTERIORS </div>
+                </div></li>
+              <li>
+                <div class="expertImg">
+                  <img src="images/gallery-img7.jpg"  class="img-responsive" alt="Expert Image">
+                  <div class="expertTitle">RESIDENTIAL INTERIORS</div>
+                </div></li>
+              <li>
+                <div class="expertImg">
+                  <img src="images/gallery-img9.jpg"  class="img-responsive" alt="Expert Image">
+                  <div class="expertTitle">OTHER PRODUCTS</div>
+                </div></li>
+            </ul>
           </div>
         </div>
       </div>
-      <section id="about" class="parallax-section">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12 col-sm-12">
-              <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
-                <h2>Services we are associated with :</h2>
-              </div>
-            </div>
-            <div class="clearfix"></div>
-            <div class="wow fadeInUp col-md-12 col-sm-12 " data-wow-delay="0.5s">
-              <!-- flexslider -->
-              <div class="flexslider">
-                <p>
-                  Chairs repairs and AMC <br>
-                  Furniture reconfiguration, rework and servicing<br>
-                  Electrical and networking consultancy and products, and services.<br>
-                  AC consultancy, services and AMC<br>
-                  Design and consultancy for Residential Interiors<br>
-                  Construction Material – consultancy and services<br>
-                  Carpentry Services<br>
-                  Painting -Internal and external
-                </ul>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-        <?php include "contactForm.php" ?>
-        <?php include "footer.php"; ?>
-        <?php include "assetsJs.php"; ?>
-      </body>
-    </html>
+      <?php include "contactForm.php" ?>
+      <?php include "footer.php"; ?>
+      <?php include "assetsJs.php"; ?>
+    </body>
+  </html>
