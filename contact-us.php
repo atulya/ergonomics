@@ -15,6 +15,9 @@
       <div class="sk-spinner sk-spinner-pulse"></div>
     </div>
     <?php include "navigation.php"; ?>
+        <section id="map" class="parallax-section">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1251.258476985588!2d73.80532893308049!3d18.511667057664773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfb06a8ec7b1%3A0xeece2069ce93bb25!2sKanchanban+Society!5e0!3m2!1sen!2sin!4v1488605381185" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </section>
     <!-- About section -->
     <section id="about" class="parallax-section">
       <div class="container">
@@ -41,7 +44,7 @@
           <div class="wow fadeInUp col-md-7 col-sm-12" data-wow-delay="0.9s">
             <ul class="slides">
               <li>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1251.258476985588!2d73.80532893308049!3d18.511667057664773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfb06a8ec7b1%3A0xeece2069ce93bb25!2sKanchanban+Society!5e0!3m2!1sen!2sin!4v1488605381185" width="458" height="305" frameborder="0" style="border:0" allowfullscreen></iframe>
+
               </li>
             </ul>
           </div>

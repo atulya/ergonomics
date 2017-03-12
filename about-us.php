@@ -43,9 +43,9 @@
       <div class="container">
         <div class="row">
           <div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="0.3s">
-          <h2>
-            Interiors products, services for Office Commercial, Industrial &amp; Residential Premises
-          </h2>
+          <h3 class="text-center">
+            <strong>Interiors products, services for Office Commercial, Industrial &amp; Residential Premises</strong>
+          </h3>
           <p class="text-center"><strong> Connecting the clients to appropriate products and services in the Industrial, Office Commercial and residential Interiors. </strong></p>
           <hr>
           <p>

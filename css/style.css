@@ -94,6 +94,10 @@ a:focus {
   padding-top: 100px;
   padding-bottom: 100px;
 }
+#map{
+  padding: inherit;
+  height: 355px;
+}
 
 #feature,
 #video,
@@ -101,6 +105,9 @@ a:focus {
 #gallery,
 #contact {
   /*text-align: center;*/
+}
+#video{
+  text-align: center;
 }
 
 #feature,
