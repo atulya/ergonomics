@@ -32,15 +32,33 @@
           <div class="wow fadeInUp col-md-12 col-sm-12 " data-wow-delay="0.5s">
             <!-- flexslider -->
               <p>
-              <strong>Services we are associated with :</strong><br>
-                Chairs repairs and AMC <br>
-                Furniture reconfiguration, rework and servicing<br>
+              <h3>We are associated with :</h3>
+              <ul>
+                <li>
+                  Chairs repairs and AMC <br>
+                </li>
+                <li>
+                  Furniture reconfiguration, rework and servicing<br>
+                </li>
+                <li>
                 Electrical and networking consultancy and products, and services.<br>
-                AC consultancy, services and AMC<br>
+                </li>
+                <li>
+                  AC consultancy, services and AMC<br>
+                </li>
+                <li>
                 Design and consultancy for Residential Interiors<br>
+                </li>
+                <li>
                 Construction Material – consultancy and services<br>
+                </li>
+                <li>
                 Carpentry Services<br>
+                </li>
+                <li>
                 Painting -Internal and external
+                </li>
+              </ul>
               </p>
           </div>
         </div>
