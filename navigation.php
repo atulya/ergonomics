@@ -16,9 +16,9 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Products we offer<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="javascript:void(0);">Office Commercial</a></li>
-            <li><a href="javascript:void(0);">Industrial</a></li>
-            <li><a href="javascript:void(0);">Residential</a></li>
+            <li><a href="javascript:void(0);">Office Commercial Interior</a></li>
+            <li><a href="javascript:void(0);">Industrial Interior</a></li>
+            <li><a href="javascript:void(0);">Residential Interior</a></li>
           </ul>
         </li>
         <li><a href="about-us.php" class="smoothScroll">About</a></li>
