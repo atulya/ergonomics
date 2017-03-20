@@ -74,7 +74,7 @@
 Offices and residence are built, but creativity, functionality and looks are added with designer’s thought process and multiple interiors and exterior products and services incorporated in the design. The market is flooded with thousands of products in the interior industry. Its tough time to choose the correct products and creditable service providers in the industry.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
         </div>
       </div>
 
@@ -102,7 +102,7 @@ Offices and residence are built, but creativity, functionality and looks are add
             </ul></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
         </div>
       </div>
 <div class="row featurette">
@@ -114,7 +114,7 @@ Offices and residence are built, but creativity, functionality and looks are add
 Offices and residence are built, but creativity, functionality and looks are added with designer’s thought process and multiple interiors and exterior products and services incorporated in the design. The market is flooded with thousands of products in the interior industry. Its tough time to choose the correct products and creditable service providers in the industry.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
         </div>
       </div>
 
@@ -143,12 +143,12 @@ Offices and residence are built, but creativity, functionality and looks are add
           </ul>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
         </div>
       </div>
       <!-- /END THE FEATURETTES -->
       </div>
-
+<p></p>
     <?php include "contactForm.php" ?>
     <?php include "footer.php"; ?>
     <?php include "assetsJs.php"; ?>
