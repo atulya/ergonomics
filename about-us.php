@@ -38,18 +38,19 @@
         </div>
       </div>
     </section>
-    <!-- About section -->
-    <section id="about" class="parallax-section">
-      <div class="container">
-        <div class="row">
-          <div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="0.3s">
-          <h3 class="text-center">
-            <strong>Interiors products, services for Office Commercial, Industrial &amp; Residential Premises</strong>
+    <div class="container">
+<!-- START THE FEATURETTES -->
+
+      <div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="0.3s">
+          <h3 class=" text-center featurette-heading">
+            <strong>Interiors products, services for <span style="text-decoration: underline;" class="text-muted">Office Commercial, Industrial &amp; Residential Premises</span></strong>
           </h3>
-          <p class="text-center"><strong> Connecting the clients to appropriate products and services in the Industrial, Office Commercial and residential Interiors. </strong></p>
-          <hr>
-          <p>
-            <h3>Key working Area :</h3>
+          <p class="text-center"><strong > Connecting the clients to appropriate products and services in the Industrial, Office Commercial and residential Interiors. </strong></p>
+      </div>
+
+      <div class="row featurette">
+        <div class="col-md-7 wow fadeInUp" data-wow-delay="0.3s">
+          <h2 class="featurette-heading">Key working <span class="text-muted">Area</span></h2>
             <ul>
               <li>Office and commercial Interiors </li>
               <li>Industrial Interiors and exterior work</li>
@@ -57,21 +58,32 @@
               <li>Design, execution and Project management service</li>
               <li>Retail rework and maintenance services for chairs, furniture, carpets</li>
             </ul>
-          </p>
-          <p>
-            We are team of professionals and experience people in industrial and commercial Interiors field, who are collectively offering the free consultancy to connect the clients with right products and services in the industry.  We are networked with multiple quality products and services in the interior Industry. This platform is just not for the networking of clients and products, but also to help out the clients to reach the quality product and services at optimum price.
-          </p>
-          <hr>
-          <h3>Our Role</h3>
-          <p>
-            Interiors and ambiance are the essentials of every office, and industrial setup.
-            <br>
-            Offices and residence are built,  but creativity, functionality and looks are added with designer’s  thought process  and multiple interiors and exterior products and services incorporated in the design. The market is flooded with thousands of products in the interior industry.  Its tough time  to choose the correct products and creditable service providers in the industry.
-          </p>
-          <hr>
-          <p>
-            <h3>We help you for</h3>
-            <ul>
+            <p>We are team of professionals and experience people in industrial and commercial Interiors field, who are collectively offering the free consultancy to connect the clients with right products and services in the industry. We are networked with multiple quality products and services in the interior Industry. This platform is just not for the networking of clients and products, but also to help out the clients to reach the quality product and services at optimum price.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+           <h2 class="featurette-heading">THE <span class="text-muted">ROLE</span></h2>
+          <p>Interiors and ambiance are the essentials of every office, and industrial setup.
+Offices and residence are built, but creativity, functionality and looks are added with designer’s thought process and multiple interiors and exterior products and services incorporated in the design. The market is flooded with thousands of products in the interior industry. Its tough time to choose the correct products and creditable service providers in the industry.</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">WE HELP <span class="text-muted">YOU FOR</span></h2>
+          <p><ul>
               <li>
                 Identifying the Interior products and services required for your office, commercial, Industrial or residential premises.
               </li>
@@ -87,28 +99,31 @@
               <li>
                 Establishing the long term client <img src="images/arrows.png" alt=""> product, company, services relationship by offering you the best possible solutions till the completion of job.
               </li>
-            </ul>
-          </p>
-          <hr>
-          <h3>How it is possible with Ergonimics solutions .. ?? <br>( Guidance on operating process of website )</h3>
-          <ul>
-            <li>
-              You need to scan the website for your products and services requirement for office, commercial or Industrial Interiors.
-            </li>
-            <li>
-              Send us the enquiry of for the product and services of your interest through enquiry form.
-            </li>
-            <li>
-              Concern professional  of our team will reach to you for further detailing of your requirement.
-            </li>
-            <li>
-              The offer details of products and services will be given to you from the experts along with technical details.
-            </li>
-            <li>
-              You will be connected to the concern company for deal of products and/or services.
-            </li>
-          </ul>
-          <hr><h3>How this can make your life simple and tension free ??</h3>
+            </ul></p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+      </div>
+<div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+           <h2 class="featurette-heading">
+            How it is possible with <span class="text-muted">Ergonimics solutions.. ??</span>
+           </h2>
+           <p><strong>( Guidance on operating process of website )</strong><br>Interiors and ambiance are the essentials of every office, and industrial setup.
+Offices and residence are built, but creativity, functionality and looks are added with designer’s thought process and multiple interiors and exterior products and services incorporated in the design. The market is flooded with thousands of products in the interior industry. Its tough time to choose the correct products and creditable service providers in the industry.</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+<div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">
+          How this can make your life simple &amp;
+           <span class="text-muted">tension free ??</span></h2>
           <ul>
             <li>
               You are equipped with free technical guidance and information related to your multiple products and services  requirement at single point contact.
@@ -126,10 +141,14 @@
               Quality and satisfaction along with saved cost and time.
             </li>
           </ul>
-          </div>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
         </div>
       </div>
-    </section>
+      <!-- /END THE FEATURETTES -->
+      </div>
+
     <?php include "contactForm.php" ?>
     <?php include "footer.php"; ?>
     <?php include "assetsJs.php"; ?>

@@ -1,5 +1,5 @@
 <!-- Contact section -->
-<section id="contact" class="parallax-section">
+<!-- <section id="contact" class="parallax-section">
   <div class="overlay"></div>
   <div class="container">
     <div class="row">
@@ -20,3 +20,4 @@
     </div>
   </div>
 </section>
+ -->
