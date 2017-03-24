@@ -1,7 +1,8 @@
 body {
 		background: #ffffff;
-    font-family: 'Source Sans Pro', sans-serif;
+    /*font-family: 'Source Sans Pro', sans-serif;*/
     font-weight: 300;
+    font-family: 'Open Sans Regular';
 	}
 
 html,body {
@@ -91,9 +92,8 @@ a:focus {
 #team,
 #gallery,
 #contact {
-  color: #656565;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  color: #000;
+  padding: 5px;
 }
 #map{
   padding: inherit;
@@ -113,7 +113,8 @@ a:focus {
 
 #feature,
 #team {
-  background: rgb(240,240,240);
+  /*background: rgb(240,240,240);*/
+  background-color: #c4ffba;
 }
 
 
@@ -192,9 +193,6 @@ a:focus {
 }
 
 #home .gradient-overlay {
-  background: #c21500; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #c21500 , #ffc500); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #c21500 , #ffc500); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   opacity: 0.3;
   position: absolute;
   top: 0;
@@ -236,7 +234,7 @@ a:focus {
 }
 
 .navbar-default .navbar-nav li a {
-    color: #757575;
+    color: #000;
     font-size: 19px;
     font-weight: bold;
     font-style: italic;
@@ -342,12 +340,14 @@ a:focus {
 
 /* Video section  */
 #video {
-  background: url('../images/video-bg.jpg') 50% 0 repeat-y fixed;
+  /*background: url('../images/video-bg.jpg') 50% 0 repeat-y fixed;*/
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
   position: relative;
   color: #999;
+  margin-bottom: 30px ;
+  background-color: #c4ffba;
 }
 
 #video .overlay {
@@ -359,7 +359,7 @@ a:focus {
 }
 
 #video h2 {
-  color: #ffffff;
+  color: #ff9800;
   padding-top: 20px;
   padding-bottom: 16px;
 }
@@ -479,8 +479,6 @@ a:focus {
 #team .col-md-6 h2 {
   padding-bottom: 16px;
 }
-
-
 
 /* Gallery section */
 #gallery .gallery-thumb {
@@ -728,7 +726,7 @@ footer strong {
 .expert ul li{
   display: inline-block;
   list-style: none;
-  width: 50%;
+  width: 30%;
   margin-bottom: 30px;
   margin-left: -3px;
 }
@@ -753,6 +751,79 @@ footer strong {
   font-weight: bold;
   background-color: rgba( 0, 0, 0, 0.6);
 }
+.titleH2Color{
+  color: #ff9800;
+}
+.logoTitle{
+  background-color: rgba( 255, 255, 255, 0.5);
+}
+.boxBorder{
+  border: 2px solid #bfbfbf;
+  display: block;
+  overflow: hidden;
+  border-radius: 0px;
+}
+.keys li{
+  font-size: 16px !important;
+  font-weight: bold;
+  padding: 5px 0;
+}
+
+
+.tabs-menu {
+    height: 30px;
+    float: left;
+    clear: both;
+}
+
+.tabs-menu li {
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    margin-right: 10px;
+    background-color: #ccc;
+    border-top: 1px solid #d4d4d1;
+    border-right: 1px solid #d4d4d1;
+    border-left: 1px solid #d4d4d1;
+}
+
+.tabs-menu li.current {
+    position: relative;
+    background-color: #fff;
+    border-bottom: 1px solid #fff;
+    z-index: 5;
+}
+
+.tabs-menu li a {
+    padding: 10px;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+}
+
+.tabs-menu .current a {
+    color: #2e7da3;
+}
+
+.tab {
+    border: 1px solid #d4d4d1;
+    background-color: #fff;
+    float: left;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.tab-content {
+    width: 100%;
+    padding: 20px;
+    display: none;
+}
+
+#tab-1 {
+ display: block;
+}
+
+
 
 /* Mobile Responsive */
 @media (max-width: 980px) {
@@ -776,7 +847,6 @@ footer strong {
   }
 
 }
-
 
 @media (max-width: 900px) {
 

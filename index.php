@@ -15,18 +15,19 @@
       <div class="sk-spinner sk-spinner-pulse"></div>
     </div>
     <!-- Home section -->
-    <section id="home" class="parallax-section">
+    <section style="position: relative;" id="home" class="parallax-section">
       <div class="gradient-overlay"></div>
       <div class="container">
         <div class="row">
           <div class="col-md-offset-2 col-md-8 col-sm-12">
-            <h1 class="wow fadeInUp" data-wow-delay="0.6s">ERGONOMICS</h1>
-            <p class="wow fadeInUp" data-wow-delay="1.0s">Interiors products, services for Office Commercial, Industrial &amp; Residential Primises
-            </p>
+            <h1 class="wow logoTitle fadeInUp" data-wow-delay="0.6s">ERGONOMICS</h1>
             <a href="#feature" class="wow fadeInUp btn btn-default hvr-bounce-to-top smoothScroll" data-wow-delay="1.3s">Discover Now</a>
           </div>
         </div>
       </div>
+    <marquee behavior="" direction="left" style="position: absolute; bottom: 0">
+      <h2 class="wow fadeInUp" data-wow-delay="1.0s" style="color: #ff9800;">Products, services for Office, Commercial, Industrial &amp; Residential Interiors.</h2>
+    </marquee>
     </section>
     <?php include "navigation.php"; ?>
     <!-- Team section -->
@@ -35,11 +36,11 @@
         <div class="row">
           <div class="clearfix"></div>
           <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.3s">
-            <h2>About Us</h2>
+            <h2 class="titleH2Color">About Us</h2>
             <p>We are team of professionals and experience people in industrial and commercial Interiors field, who are collectively offering the free consultancy to connect the clients with rite products and services in the industry. We are networked with multiple quality products and services in the interior Industry. This platform is just not the networking of clients and products , but to help out the clients to reach the quality product and services at optimum price.</p>
           </div>
           <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s">
-            <h2>Our Service</h2>
+            <h2 class="titleH2Color">Our Service</h2>
             <p>Maecenas dictum cursus dui, quis mattis eros ultricies sed. Maecenas ligula nulla, dictum eu cursus id, semper in orci. Fusce vel nisi hendrerit justo viverra vehicula in nec nunc. Curabitur blandit fringilla quam.</p>
           </div>
         </div>
@@ -51,7 +52,7 @@
         <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
         <h2></h2>
           <div class="col-md-8 height-280 footerUsp">
-            <a href="javascript:void(0);">
+            <a href="javascript:void(0);" class="boxBorder">
               <img src="images/officeFooter.png" alt="Office">
             </a>
             <h3 class="footerUspTitle">Office</h3>

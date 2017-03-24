@@ -30,6 +30,13 @@
       <div class="container">
         <div class="row">
           <div class="expert col-md-12">
+
+          A) Office and commercial Interiors  :
+B) Industrial Interiors and exterior work
+C) Residential Interiors
+D) Design , execution and Project management service
+E) Retail rework and maintenance services for chairs, furniture, carpets
+
             <ul>
               <li>
                 <div class="expertImg">

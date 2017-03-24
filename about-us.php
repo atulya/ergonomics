@@ -42,16 +42,13 @@
 <!-- START THE FEATURETTES -->
 
       <div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="0.3s">
-          <h3 class=" text-center featurette-heading">
-            <strong>Interiors products, services for <span style="text-decoration: underline;" class="text-muted">Office Commercial, Industrial &amp; Residential Premises</span></strong>
-          </h3>
-          <p class="text-center"><strong > Connecting the clients to appropriate products and services in the Industrial, Office Commercial and residential Interiors. </strong></p>
+          <p class="text-center lead"><strong > <em style="color: #5858b7;">Connecting the clients to appropriate products and services in the Industrial, Office Commercial and residential Interiors.</em> </strong></p>
       </div>
 
       <div class="row featurette">
         <div class="col-md-7 wow fadeInUp" data-wow-delay="0.3s">
-          <h2 class="featurette-heading">Key working <span class="text-muted">Area</span></h2>
-            <ul>
+          <p class="lead featurette-heading" style="margin-bottom: 0px; ">Key working <span class="text-muted">Area</span></p>
+            <ul class="keys" style="margin-left: -20px;">
               <li>Office and commercial Interiors </li>
               <li>Industrial Interiors and exterior work</li>
               <li>Residential Interiors</li>
