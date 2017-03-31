@@ -30,48 +30,31 @@
       <div class="container">
         <div class="row">
           <div class="expert col-md-12">
-
-          A) Office and commercial Interiors  :
-B) Industrial Interiors and exterior work
-C) Residential Interiors
-D) Design , execution and Project management service
-E) Retail rework and maintenance services for chairs, furniture, carpets
-
             <ul>
               <li>
                 <div class="expertImg">
                   <img src="images/gallery-img8.jpg" class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">MODULAR FURNITURE</div>
+                  <div class="expertTitle">Office and commercial Interiors</div>
                 </div></li>
               <li>
                 <div class="expertImg">
                   <img src="images/gallery-img1.jpg" class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">OFFICE CHAIRS</div>
+                  <div class="expertTitle">Industrial Interiors and exterior work</div>
                 </div></li>
               <li>
                 <div class="expertImg">
                   <img src="images/gallery-img6.jpg"  class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">PARTITIONS</div>
+                  <div class="expertTitle">Residential Interiors</div>
                 </div></li>
               <li>
                 <div class="expertImg">
                   <img src="images/gallery-img2.jpg"  class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">FALSE CEILINGS</div>
+                  <div class="expertTitle">Design, execution and Project management service</div>
                 </div></li>
               <li>
                 <div class="expertImg">
                   <img src="images/gallery-img5.jpg"  class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">INDUSTRIAL INTERIORS &amp; EXTERIORS </div>
-                </div></li>
-              <li>
-                <div class="expertImg">
-                  <img src="images/gallery-img7.jpg"  class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">RESIDENTIAL INTERIORS</div>
-                </div></li>
-              <li>
-                <div class="expertImg">
-                  <img src="images/gallery-img9.jpg"  class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">OTHER PRODUCTS</div>
+                  <div class="expertTitle">Retail rework and maintenance services for chairs, furniture, carpets</div>
                 </div></li>
             </ul>
           </div>

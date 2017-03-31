@@ -47,11 +47,9 @@
             </div>
           </div>
           <div class="wow fadeInUp col-md-7 col-sm-12" data-wow-delay="0.9s">
-            <ul class="slides">
-              <li>
+            <form action="">
 
-              </li>
-            </ul>
+            </form>
           </div>
         </div>
       </div>

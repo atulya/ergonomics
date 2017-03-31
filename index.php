@@ -31,7 +31,7 @@
     </section>
     <?php include "navigation.php"; ?>
     <!-- Team section -->
-    <section id="feature" class="parallax-section">
+    <section id="feature" class="parallax-section paddingTop50">
       <div class="container">
         <div class="row">
           <div class="clearfix"></div>
@@ -52,7 +52,7 @@
         <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
         <h2></h2>
           <div class="col-md-8 height-280 footerUsp">
-            <a href="javascript:void(0);" class="boxBorder">
+            <a href="javascript:void(0);">
               <img src="images/officeFooter.png" alt="Office">
             </a>
             <h3 class="footerUspTitle">Office</h3>
