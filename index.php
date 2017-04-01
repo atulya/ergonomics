@@ -25,25 +25,25 @@
           </div>
         </div>
       </div>
+      <div class="thumbnil thumbOne"></div>
+      <div class="thumbnil thumbTwo"></div>
+      <div class="thumbnil thumbThree"></div>
+      <div class="thumbnil thumbFour"></div>
     <marquee behavior="" direction="left" style="position: absolute; bottom: 0">
       <h2 class="wow fadeInUp" data-wow-delay="1.0s" style="color: #ff9800;">Products, services for Office, Commercial, Industrial &amp; Residential Interiors.</h2>
     </marquee>
     </section>
     <?php include "navigation.php"; ?>
     <!-- Team section -->
-    <section id="feature" class="parallax-section paddingTop50">
+    <section id="feature" class="parallax-section paddingTopBottom50">
       <div class="container">
         <div class="row">
           <div class="clearfix"></div>
-          <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.3s">
+          <div class="wow fadeInUp col-md-12 col-sm-12 text-center" data-wow-delay="0.3s">
             <h2 class="titleH2Color">About Us</h2>
             <p>We are team of professionals and experience people in industrial and commercial Interiors field, who are collectively offering the free consultancy to connect the clients with rite products and services in the industry. We are networked with multiple quality products and services in the interior Industry. This platform is just not the networking of clients and products , but to help out the clients to reach the quality product and services at optimum price.</p>
+            <a href="about-us.php" class="wow lead fadeInUp smoothScroll" data-wow-delay="1.3s">Read More</a>
           </div>
-          <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s">
-            <h2 class="titleH2Color">Our Service</h2>
-            <p>Maecenas dictum cursus dui, quis mattis eros ultricies sed. Maecenas ligula nulla, dictum eu cursus id, semper in orci. Fusce vel nisi hendrerit justo viverra vehicula in nec nunc. Curabitur blandit fringilla quam.</p>
-          </div>
-        </div>
       </div>
     </section>
 
@@ -67,7 +67,7 @@
             <a href="javascript:void(0);">
               <img src="images/outdoorsFooter.png" alt="Outdoors Footer">
             </a>
-            <h3 class="footerUspTitle">Outdoor</h3>
+            <h3 class="footerUspTitle">Others</h3>
           </div>
           <div class="col-md-8 height-280 footerUsp">
             <a href="javascript:void(0);">

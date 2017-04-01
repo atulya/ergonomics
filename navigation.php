@@ -20,7 +20,7 @@
             <li><a href="office-commercial-interiors.php">Office &amp; Commercial Interiors</a></li>
             <li><a href="industrial-interiors-and-exteriors.php">Industrial Interiors &amp; exteriors</a></li>
             <li><a href="residential-interior.php">Residential Interior</a></li>
-            <li><a href="javascript:void(0);">Outdoor &amp; Other Products</a></li>
+            <li><a href="javascript:void(0);">Other Products</a></li>
           </ul>
         </li>
         <li><a href="services.php" class="smoothScroll">What we do</a></li>

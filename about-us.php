@@ -33,7 +33,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-offset-2 col-md-8 col-sm-12">
-            <h2 class="wow fadeInUp" data-wow-delay="0.5s">About Us</h2>
+            <h2 class="wow fadeInUp" data-wow-delay="0.5s">Who we are</h2>
           </div>
         </div>
       </div>
@@ -58,7 +58,7 @@
             <p>We are team of professionals and experience people in industrial and commercial Interiors field, who are collectively offering the free consultancy to connect the clients with right products and services in the industry. We are networked with multiple quality products and services in the interior Industry. This platform is just not for the networking of clients and products, but also to help out the clients to reach the quality product and services at optimum price.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Glass-Partition-Sceiling.png" data-src="" alt="Glass Partition Sceiling">
         </div>
       </div>
 
@@ -71,7 +71,7 @@
 Offices and residence are built, but creativity, functionality and looks are added with designer’s thought process and multiple interiors and exterior products and services incorporated in the design. The market is flooded with thousands of products in the interior industry. Its tough time to choose the correct products and creditable service providers in the industry.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Open-cell-ceiling--include-on-website.png" data-src="" alt="Open cell ceiling">
         </div>
       </div>
 
@@ -99,9 +99,11 @@ Offices and residence are built, but creativity, functionality and looks are add
             </ul></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Mezzinine-Floor.png" data-src="" alt="Mezzinine Floor">
         </div>
       </div>
+      <hr class="featurette-divider">
+
 <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
            <h2 class="featurette-heading">
@@ -111,7 +113,7 @@ Offices and residence are built, but creativity, functionality and looks are add
 Offices and residence are built, but creativity, functionality and looks are added with designer’s thought process and multiple interiors and exterior products and services incorporated in the design. The market is flooded with thousands of products in the interior industry. Its tough time to choose the correct products and creditable service providers in the industry.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/Home-furniture.png" data-src="" alt="Home Furniture">
         </div>
       </div>
 
@@ -140,7 +142,7 @@ Offices and residence are built, but creativity, functionality and looks are add
           </ul>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block img-rounded" src="images/Residential-01.png" data-src="" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block img-rounded" src="images/messung-systems.png" data-src="" alt="messung systems">
         </div>
       </div>
       <!-- /END THE FEATURETTES -->
