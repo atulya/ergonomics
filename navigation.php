@@ -15,7 +15,7 @@
         <li><a href="about-us.php" class="smoothScroll">Who we are</a></li>
         <li><a href="our-expertise.php" class="smoothScroll">Our Expertise</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Products we offer<span class="caret"></span></a>
+          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Products we offer<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="office-commercial-interiors.php">Office &amp; Commercial Interiors</a></li>
             <li><a href="industrial-interiors-and-exteriors.php">Industrial Interiors &amp; exteriors</a></li>

@@ -51,13 +51,13 @@
           <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
             <h2></h2>
             <div class="col-md-8 height-280 footerUsp">
-              <a href="javascript:void(0);">
+              <a href="office-commercial-interiors.php">
                 <img src="images/officeFooter.png" alt="Office">
               </a>
               <h3 class="footerUspTitle">Office</h3>
             </div>
             <div class="col-md-4 height-280 footerUsp">
-              <a href="javascript:void(0);">
+              <a href="industrial-interiors-and-exteriors.php">
                 <img src="images/industrialFooter.png" alt="Industrial Footer">
               </a>
               <h3 class="footerUspTitle">Industrial</h3>
@@ -69,7 +69,7 @@
               <h3 class="footerUspTitle">Others</h3>
             </div>
             <div class="col-md-8 height-280 footerUsp">
-              <a href="javascript:void(0);">
+              <a href="residential-interior.php">
                 <img src="images/residentialFooter.png" alt="Residential Footer">
               </a>
               <h3 class="footerUspTitle">Residential</h3>
