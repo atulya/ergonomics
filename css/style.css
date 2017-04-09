@@ -225,8 +225,8 @@ a:focus {
 
 #home .btn {
   background: transparent;
-  border: 3px solid #ffffff;
-  color: #ffffff;
+  border: 3px solid #ffcc33;
+  color: #c21500;
   font-size: 12px;
   /*letter-spacing: 2px;*/
   padding: 13px 30px;

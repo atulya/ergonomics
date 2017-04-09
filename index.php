@@ -19,16 +19,16 @@
       <div class="gradient-overlay"></div>
       <div class="container">
         <div class="row">
-          <div class="col-md-offset-2 col-md-8 col-sm-12">
-            <h1 class="wow logoTitle fadeInUp" data-wow-delay="0.6s">ERGONOMICS</h1>
+          <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
+            <img src="images/ergonomics-logo.png" class="img-responsive" width="500px" style="margin: 0 auto;" alt="Ergonomics Logo">
             <a href="#feature" class="wow fadeInUp btn btn-default hvr-bounce-to-top smoothScroll" data-wow-delay="1.3s">Discover Now</a>
           </div>
         </div>
       </div>
-      <div class="thumbnil thumbOne"></div>
-      <div class="thumbnil thumbTwo"></div>
-      <div class="thumbnil thumbThree"></div>
-      <div class="thumbnil thumbFour"></div>
+      <a href="javascript:void();" class="thumbnil thumbOne"></a>
+      <a href="javascript:void();" class="thumbnil thumbTwo"></a>
+      <a href="javascript:void();" class="thumbnil thumbThree"></a>
+      <a href="javascript:void();" class="thumbnil thumbFour"></a>
       <marquee behavior="" direction="left" style="position: absolute; bottom: 0">
       <h2 class="wow fadeInUp" data-wow-delay="1.0s" style="color: #ff9800;">Products, services for Office, Commercial, Industrial &amp; Residential Interiors.</h2>
       </marquee>
