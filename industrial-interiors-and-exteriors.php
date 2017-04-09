@@ -31,52 +31,28 @@
         <div class="row">
           <div id="tabs-container">
             <ul class="tabs-menu">
-              <li class="current"><a href="#tab-1">Industrial, Interiors and exteriors</a></li>
-              <!-- <li><a href="#tab-2">Office Chairs</a></li>
-              <li><a href="#tab-3">Partitions</a></li>
-              <li><a href="#tab-4">Ceilings</a></li> -->
+              <li class="current"><a href="#tab-1">Industrial Interior Exterior</a></li>
             </ul>
             <div class="tab">
               <div id="tab-1" class="tab-content">
                 <div class="offerPage">
-                  <ul>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img8.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Preengineered Building</div>
+                  <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+                      <div class="active item">
+                        <img src="images/industrial-interior-exterior/1.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img1.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Mezzanine Floors</div>
+                      <div class="item">
+                        <img src="images/industrial-interior-exterior/2.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img6.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Glass facade</div>
+                      <div class="item">
+                        <img src="images/industrial-interior-exterior/3.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">ACP work</div>
+                      <div class="item">
+                        <img src="images/industrial-interior-exterior/4.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img5.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Shop floor Dry walls</div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img5.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Industrial False ceiling</div>
-                      </div>
-                    </li>
-                  </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -87,5 +63,11 @@
     <?php include "contactForm.php" ?>
     <?php include "footer.php"; ?>
     <?php include "assetsJs.php"; ?>
+    <script>
+      $('.carousel').carousel({
+        interval: 2000,
+        pause: 'none'
+      })
+    </script>
   </body>
 </html>

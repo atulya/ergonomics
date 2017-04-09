@@ -26,42 +26,120 @@
       </div>
     </section>
     <!-- Gallery section -->
-    <section class="parallax-section">
-      <div class="container">
-        <div class="row">
-          <div class="expert col-md-12">
-            <ul>
-              <li>
-                <div class="expertImg">
-                  <img src="images/gallery-img8.jpg" class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">Office and commercial Interiors</div>
-                </div></li>
-              <li>
-                <div class="expertImg">
-                  <img src="images/gallery-img1.jpg" class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">Industrial Interiors and exterior work</div>
-                </div></li>
-              <li>
-                <div class="expertImg">
-                  <img src="images/gallery-img6.jpg"  class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">Residential Interiors</div>
-                </div></li>
-              <li>
-                <div class="expertImg">
-                  <img src="images/gallery-img2.jpg"  class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">Design, execution and Project management service</div>
-                </div></li>
-              <li>
-                <div class="expertImg">
-                  <img src="images/gallery-img5.jpg"  class="img-responsive" alt="Expert Image">
-                  <div class="expertTitle">Retail rework and maintenance services for chairs, furniture, carpets</div>
-                </div></li>
-            </ul>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="text-center" style="position: absolute; z-index: 1; width: 100%; padding: 100px 0 0 0;">
+          <div style="background-color: rgba(255, 255, 255, 0.9); width: 40%; margin: 0 auto; padding: 20px;">
+            <h3>Office and commercial Interiors <br><br> Industrial Interiors and exterior work Residential Interiors,<br><br> Design, execution and Project management service<br><br>Retail rework and maintenance services for chairs, furniture, carpets.</h3>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="row galleryGrid">
+            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="images/gallery-img1.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img8.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="row galleryGrid">
+            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="images/gallery-img8.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img1.jpg" alt=""></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="row galleryGrid">
+            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="images/gallery-img1.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img8.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="row galleryGrid">
+            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="images/gallery-img8.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img1.jpg" alt=""></div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-      <?php include "contactForm.php" ?>
-      <?php include "footer.php"; ?>
-      <?php include "assetsJs.php"; ?>
-    </body>
-  </html>
+      <div class="row">
+        <div class="col-md-3">
+          <div class="row galleryGrid">
+            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="images/gallery-img8.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img1.jpg" alt=""></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="row galleryGrid">
+            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="images/gallery-img8.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img1.jpg" alt=""></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="row galleryGrid">
+            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="images/gallery-img8.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img1.jpg" alt=""></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="row galleryGrid">
+            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+              <!-- Carousel items -->
+              <div class="carousel-inner">
+                <div class="active item"><img src="images/gallery-img8.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+                <div class="item"><img src="images/gallery-img1.jpg" alt=""></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <?php include "contactForm.php" ?>
+    <?php include "footer.php"; ?>
+    <?php include "assetsJs.php"; ?>
+    <script>
+      $('.carousel').carousel({
+        interval: 2000
+      })
+    </script>
+  </body>
+</html>

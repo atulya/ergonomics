@@ -39,170 +39,86 @@
             <div class="tab">
               <div id="tab-1" class="tab-content">
                 <div class="offerPage">
-                  <ul>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img8.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Workstations</div>
+                  <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+                      <div class="active item">
+                        <img src="images/office-and-commercial/modular/1.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img1.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Manager Desk</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/modular/2.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img6.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Cubilces</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/modular/3.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Conference/Meeting Tables</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/modular/4.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img5.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Storage</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/modular/5.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img5.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Cafeteria Tables</div>
-                      </div>
-                    </li>
-                  </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div id="tab-2" class="tab-content">
                 <div class="offerPage">
-                  <ul>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img8.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Staff Chairs</div>
+                  <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                    <!-- Carousel items partitations-->
+                    <div class="carousel-inner">
+                      <div class="active item">
+                        <img src="images/office-and-commercial/chairs/1.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img1.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Manager's Chairs</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/chairs/2.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img6.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Meeting Room Chairs</div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Visitors Chairs</div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img5.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Cafeteria Chairs</div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img5.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Training Room Chairs</div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img5.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Collective seatings</div>
-                      </div>
-                    </li>
-                  </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div id="tab-3" class="tab-content">
                 <div class="offerPage">
-                  <ul>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img8.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Dry walls</div>
+                  <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+                      <div class="active item">
+                        <img src="images/office-and-commercial/partitations/1.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img1.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Wooden partitions</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/partitations/2.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img6.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Aluminum Partitions</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/partitations/3.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Modular Partitions</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/partitations/4.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                  </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div id="tab-4" class="tab-content">
                 <div class="offerPage">
-                  <ul>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img8.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Gypsum Ceiling</div>
+                  <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+                      <div class="active item">
+                        <img src="images/office-and-commercial/ceilings/1.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img1.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Grid ceilings</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/ceilings/2.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img6.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Metal Ceilings</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/ceilings/3.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Designers Ceiling</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/ceilings/4.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Open Cell</div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/ceilings/5.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Baffle Ceiling</div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Planks</div>
-                      </div>
-                    </li>
-                  </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -213,5 +129,11 @@
     <?php include "contactForm.php" ?>
     <?php include "footer.php"; ?>
     <?php include "assetsJs.php"; ?>
+    <script>
+      $('.carousel').carousel({
+        interval: 2000,
+        pause: 'none'
+      })
+    </script>
   </body>
 </html>

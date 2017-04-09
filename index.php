@@ -29,9 +29,9 @@
       <div class="thumbnil thumbTwo"></div>
       <div class="thumbnil thumbThree"></div>
       <div class="thumbnil thumbFour"></div>
-    <marquee behavior="" direction="left" style="position: absolute; bottom: 0">
+      <marquee behavior="" direction="left" style="position: absolute; bottom: 0">
       <h2 class="wow fadeInUp" data-wow-delay="1.0s" style="color: #ff9800;">Products, services for Office, Commercial, Industrial &amp; Residential Interiors.</h2>
-    </marquee>
+      </marquee>
     </section>
     <?php include "navigation.php"; ?>
     <!-- Team section -->
@@ -39,47 +39,46 @@
       <div class="container">
         <div class="row">
           <div class="clearfix"></div>
-          <div class="wow fadeInUp col-md-12 col-sm-12 text-center" data-wow-delay="0.3s">
+          <div class="col-md-12 col-sm-12 text-center">
             <h2 class="titleH2Color">About Us</h2>
             <p>We are team of professionals and experience people in industrial and commercial Interiors field, who are collectively offering the free consultancy to connect the clients with rite products and services in the industry. We are networked with multiple quality products and services in the interior Industry. This platform is just not the networking of clients and products , but to help out the clients to reach the quality product and services at optimum price.</p>
             <a href="about-us.php" class="wow lead fadeInUp smoothScroll" data-wow-delay="1.3s">Read More</a>
           </div>
-      </div>
-    </section>
-
+        </div>
+      </section>
       <div class="container hidden-xs hidden-sm hidden-md">
         <div class="row">
-        <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
-        <h2></h2>
-          <div class="col-md-8 height-280 footerUsp">
-            <a href="javascript:void(0);">
-              <img src="images/officeFooter.png" alt="Office">
-            </a>
-            <h3 class="footerUspTitle">Office</h3>
+          <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
+            <h2></h2>
+            <div class="col-md-8 height-280 footerUsp">
+              <a href="javascript:void(0);">
+                <img src="images/officeFooter.png" alt="Office">
+              </a>
+              <h3 class="footerUspTitle">Office</h3>
+            </div>
+            <div class="col-md-4 height-280 footerUsp">
+              <a href="javascript:void(0);">
+                <img src="images/industrialFooter.png" alt="Industrial Footer">
+              </a>
+              <h3 class="footerUspTitle">Industrial</h3>
+            </div>
+            <div class="col-md-4 height-280 footerUsp">
+              <a href="javascript:void(0);">
+                <img src="images/outdoorsFooter.png" alt="Outdoors Footer">
+              </a>
+              <h3 class="footerUspTitle">Others</h3>
+            </div>
+            <div class="col-md-8 height-280 footerUsp">
+              <a href="javascript:void(0);">
+                <img src="images/residentialFooter.png" alt="Residential Footer">
+              </a>
+              <h3 class="footerUspTitle">Residential</h3>
+            </div>
           </div>
-          <div class="col-md-4 height-280 footerUsp">
-            <a href="javascript:void(0);">
-              <img src="images/industrialFooter.png" alt="Industrial Footer">
-            </a>
-            <h3 class="footerUspTitle">Industrial</h3>
-          </div>
-          <div class="col-md-4 height-280 footerUsp">
-            <a href="javascript:void(0);">
-              <img src="images/outdoorsFooter.png" alt="Outdoors Footer">
-            </a>
-            <h3 class="footerUspTitle">Others</h3>
-          </div>
-          <div class="col-md-8 height-280 footerUsp">
-            <a href="javascript:void(0);">
-              <img src="images/residentialFooter.png" alt="Residential Footer">
-            </a>
-            <h3 class="footerUspTitle">Residential</h3>
-          </div>
+          </div> <!-- /container -->
         </div>
-      </div> <!-- /container -->
-      </div>
-    <?php include "contactForm.php" ?>
-    <?php include "footer.php"; ?>
-    <?php include "assetsJs.php"; ?>
-  </body>
-</html>
+        <?php include "contactForm.php" ?>
+        <?php include "footer.php"; ?>
+        <?php include "assetsJs.php"; ?>
+      </body>
+    </html>

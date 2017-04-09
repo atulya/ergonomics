@@ -32,39 +32,33 @@
           <div id="tabs-container">
             <ul class="tabs-menu">
               <li class="current"><a href="#tab-1">Residential Interior</a></li>
-              <!-- <li><a href="#tab-2">Office Chairs</a></li>
-              <li><a href="#tab-3">Partitions</a></li>
-              <li><a href="#tab-4">Ceilings</a></li> -->
             </ul>
             <div class="tab">
               <div id="tab-1" class="tab-content">
                 <div class="offerPage">
-                  <ul>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img8.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Modular Kitchens</div>
+                  <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+                      <div class="active item">
+                        <img src="images/residential/1.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img1.jpg" class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Home furniture</div>
+                      <div class="item">
+                        <img src="images/residential/2.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img6.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Sofas</div>
+                      <div class="item">
+                        <img src="images/residential/3.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                    <li>
-                      <div class="offerPageImg">
-                        <img src="images/gallery-img2.jpg"  class="img-responsive" alt="offerPage Image">
-                        <div class="offerPageTitle">Design &amp; execution in Totality</div>
+                      <div class="item">
+                        <img src="images/residential/4.jpg" class="img-responsive" alt="">
                       </div>
-                    </li>
-                  </ul>
+                      <div class="item">
+                        <img src="images/residential/5.jpg" class="img-responsive" alt="">
+                      </div>
+                      <div class="item">
+                        <img src="images/residential/6.jpg" class="img-responsive" alt="">
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -75,5 +69,11 @@
     <?php include "contactForm.php" ?>
     <?php include "footer.php"; ?>
     <?php include "assetsJs.php"; ?>
+    <script>
+      $('.carousel').carousel({
+        interval: 2000,
+        pause: 'none'
+      })
+    </script>
   </body>
 </html>
