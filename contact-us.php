@@ -33,56 +33,27 @@
       <div class="container">
         <div class="row">
           <div class="clearfix"></div>
-          <div class="wow fadeInUp col-md-5 col-sm-7" data-wow-delay="0.5s">
+          <div id="contact" class="wow fadeInUp" data-wow-delay="0.5s">
             <!-- flexslider -->
-            <form name="contactform" method="post" action="send_form_email.php">
-              <table width="100%">
-                <tr>
-                  <td valign="top">
-                    <label for="first_name">First Name *</label>
-                  </td>
-                  <td valign="top">
-                    <input class="form-control" type="text" name="first_name" maxlength="50" size="30">
-                  </td>
-                </tr>
-                <tr>
-                  <td valign="top"">
-                    <label for="last_name">Last Name *</label>
-                  </td>
-                  <td valign="top">
-                    <input class="form-control" type="text" name="last_name" maxlength="50" size="30">
-                  </td>
-                </tr>
-                <tr>
-                  <td valign="top">
-                    <label for="email">Email Address *</label>
-                  </td>
-                  <td valign="top">
-                    <input class="form-control" type="text" name="email" maxlength="80" size="30">
-                  </td>
-                </tr>
-                <tr>
-                  <td valign="top">
-                    <label for="telephone">Telephone Number</label>
-                  </td>
-                  <td valign="top">
-                    <input class="form-control" type="text" name="telephone" maxlength="30" size="30">
-                  </td>
-                </tr>
-                <tr>
-                  <td valign="top">
-                    <label for="comments">Comments *</label>
-                  </td>
-                  <td valign="top">
-                    <textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
-                  </td>
-                </tr>
-                <tr>
-                  <td colspan="2" style="text-align:center">
-                    <input class="btn btn-primary"type="submit" value="Submit">
-                  </td>
-                </tr>
-              </table>
+            <form id="contact-form" name="contactform" method="post" action="send_form_email.php">
+              <div class="col-md-6">
+                <input class="form-control" type="text" placeholder="First Name" name="first_name" maxlength="50" size="30">
+              </div>
+              <div class="col-md-6">
+                <input class="form-control" type="text" placeholder="Last Name" name="last_name" maxlength="50" size="30">
+              </div>
+              <div class="col-md-6">
+                <input class="form-control" type="text" placeholder="Email" name="email" maxlength="80" size="30">
+              </div>
+              <div class="col-md-6">
+                <input class="form-control" type="text" placeholder="Phone" name="telephone" maxlength="30" size="30">
+              </div>
+              <div class="col-md-6">
+              <textarea class="form-control"  name="comments" placeholder="Let us know " maxlength="1000" cols="25" rows="6"></textarea>
+              </div>
+              <div class="col-md-6">
+              <input class="btn btn-primary" type="submit" value="&#xf003; Send">
+              </div>
             </form>
           </div>
           <div class="wow fadeInUp col-md-7 col-sm-12" data-wow-delay="0.9s">

@@ -618,11 +618,11 @@ a:focus {
 
 /* Contact section  */
 #contact {
-  background: url('../images/contact-bg.jpg') 50% 0 repeat-y fixed;
+/*  background: url('../images/contact-bg.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
-  position: relative;
+  position: relative;*/
 }
 
 #contact .overlay {
@@ -639,7 +639,7 @@ a:focus {
   border-bottom: 1px solid #666;
   border-radius: 0px;
   box-shadow: none;
-  color: #ffffff;
+  color: #4f4f4f;
   font-size: 18px;
   margin-bottom: 16px;
   transition: all 0.4s ease-in-out;
