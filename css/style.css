@@ -224,7 +224,7 @@ a:focus {
 }
 
 #home .btn {
-  background: transparent;
+  background-color: rgba(255, 255, 255, 0.9);
   border: 3px solid #ffcc33;
   color: #c21500;
   font-size: 12px;
@@ -896,27 +896,36 @@ footer strong {
 .marginTop50{
   margin-top: 50px;
 }
-.thumbnil{
-  height: 150px;
-  width: 200px;
-  background-color: #ffcc33;
+.thumbnilWrapper{
   position: absolute;
+  bottom: 70px;
+  width: 100%;
+  /*left: 100px;*/
+  z-index: 1;
+}
+.thumbnil{
+  background-color: #ffcc33;
+  border: 0px solid #ffcc33;
+  transition: 0.30s;
+  height: 190px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.thumbnil:hover{
+  border: 6px solid #ffcc33;
+  transition: 0.30s;
 }
 .thumbOne{
-  bottom: 70px;
-  left: 100px;
+  background-image: url(../images/contact-bg.jpg);
 }
 .thumbTwo{
-  bottom: 70px;
-  left: 475px;
+  background-image: url(../images/gallery-img1.jpg);
 }
 .thumbThree{
-  bottom: 70px;
-  right: 475px;
+  background-image: url(../images/gallery-img2.jpg);
 }
 .thumbFour{
-  bottom: 70px;
-  right: 100px;
+  background-image: url(../images/gallery-img3.jpg);
 }
 .footerUsp{
   margin-bottom: 20px;

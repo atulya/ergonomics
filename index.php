@@ -25,10 +25,14 @@
           </div>
         </div>
       </div>
-      <a href="javascript:void();" class="thumbnil thumbOne"></a>
-      <a href="javascript:void();" class="thumbnil thumbTwo"></a>
-      <a href="javascript:void();" class="thumbnil thumbThree"></a>
-      <a href="javascript:void();" class="thumbnil thumbFour"></a>
+      <div class="thumbnilWrapper">
+        <div class="container">
+          <a href="javascript:void();" class="col-md-3 thumbnil thumbOne"></a>
+          <a href="javascript:void();" class="col-md-3 thumbnil thumbTwo"></a>
+          <a href="javascript:void();" class="col-md-3 thumbnil thumbThree"></a>
+          <a href="javascript:void();" class="col-md-3 thumbnil thumbFour"></a>
+        </div>
+      </div>
       <marquee behavior="" direction="left" style="position: absolute; bottom: 0">
       <h2 class="wow fadeInUp" data-wow-delay="1.0s" style="color: #ff9800;">Products, services for Office, Commercial, Industrial &amp; Residential Interiors.</h2>
       </marquee>
