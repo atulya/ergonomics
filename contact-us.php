@@ -15,7 +15,7 @@
       <div class="sk-spinner sk-spinner-pulse"></div>
     </div>
     <?php include "navigation.php"; ?>
-        <!-- <section id="map" class="parallax-section">
+    <!-- <section id="map" class="parallax-section">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1251.258476985588!2d73.80532893308049!3d18.511667057664773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfb06a8ec7b1%3A0xeece2069ce93bb25!2sKanchanban+Society!5e0!3m2!1sen!2sin!4v1488605381185" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
     </section> -->
     <section id="video" class="parallax-section">
@@ -35,27 +35,65 @@
           <div class="clearfix"></div>
           <div class="wow fadeInUp col-md-5 col-sm-7" data-wow-delay="0.5s">
             <!-- flexslider -->
-            <div class="flexslider">
-              <h3>Address</h3>
-              <p>A-306, Kanchanban Society, <br>Shivtirtha Nagar, <br>Paud Road, Kothrud, Pune - 411038.</p>
-              <p>
-                <strong>Email No.:</strong> <a href=" mailto:info@ergonimics.com">info@ergonimics.com</a>
-              </p>
-              <p>
-                <strong>Contact No.:</strong> <a href="tel:9922863726">9922863726</a>
-              </p>
-            </div>
+            <form name="contactform" method="post" action="send_form_email.php">
+              <table width="100%">
+                <tr>
+                  <td valign="top">
+                    <label for="first_name">First Name *</label>
+                  </td>
+                  <td valign="top">
+                    <input class="form-control" type="text" name="first_name" maxlength="50" size="30">
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top"">
+                    <label for="last_name">Last Name *</label>
+                  </td>
+                  <td valign="top">
+                    <input class="form-control" type="text" name="last_name" maxlength="50" size="30">
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top">
+                    <label for="email">Email Address *</label>
+                  </td>
+                  <td valign="top">
+                    <input class="form-control" type="text" name="email" maxlength="80" size="30">
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top">
+                    <label for="telephone">Telephone Number</label>
+                  </td>
+                  <td valign="top">
+                    <input class="form-control" type="text" name="telephone" maxlength="30" size="30">
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top">
+                    <label for="comments">Comments *</label>
+                  </td>
+                  <td valign="top">
+                    <textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2" style="text-align:center">
+                    <input class="btn btn-primary"type="submit" value="Submit">
+                  </td>
+                </tr>
+              </table>
+            </form>
           </div>
           <div class="wow fadeInUp col-md-7 col-sm-12" data-wow-delay="0.9s">
             <form action="">
-
             </form>
           </div>
         </div>
       </div>
     </section>
     <?php include "contactForm.php" ?>
-    <?php //include "footer.php"; ?>
+    <?php include "footer.php"; ?>
     <?php include "assetsJs.php"; ?>
   </body>
 </html>
