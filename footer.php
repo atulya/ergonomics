@@ -35,7 +35,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-9 col-sm-9 col-xs-9">
-        <p>Copyright © 2016 Ergonomics Interiors &amp; Modules Services Pvt Ltd - Designed by <a class="designed-by" href="http://www.b3graphics.net/" target="_blank">B3graphics</a></p>
+        <p>Copyright &copy; 2017 Ergonomics Interiors &amp; Modules Services Pvt Ltd - Designed by <a class="designed-by" href="http://www.b3graphics.net/" target="_blank">B3graphics</a></p>
       </div>
       <div class="col-md-3 col-sm-3 text-right">
         <a href="#home" class="fa fa-angle-up smoothScroll gototop"></a>

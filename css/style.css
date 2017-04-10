@@ -259,7 +259,7 @@ a:focus {
 .navbar-default .navbar-nav li a {
   font-family: 'Avenir-Medium';
   color: #4f4f4f;
-  font-size: 20px;
+  font-size: 18px;
   /*font-weight: bold;*/
   /*font-style: italic;*/
   line-height: 50px;
@@ -907,9 +907,13 @@ footer strong {
   background-color: #ffcc33;
   border: 0px solid #ffcc33;
   transition: 0.30s;
-  height: 190px;
+  height: 145px;
+  width: 24%;
+  float: left;
   background-size: 100%;
   background-repeat: no-repeat;
+  margin-left: 3px;
+  box-sizing: border-box;
 }
 .thumbnil:hover{
   border: 6px solid #ffcc33;

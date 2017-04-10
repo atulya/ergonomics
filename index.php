@@ -20,7 +20,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
-            <img src="images/ergonomics-logo.png" class="img-responsive" width="500px" style="margin: 0 auto;" alt="Ergonomics Logo">
+            <img src="images/ergonomics-logo02.png" class="img-responsive" width="500px" style="margin: 0 auto;" alt="Ergonomics Logo">
             <a href="#feature" class="wow fadeInUp btn btn-default hvr-bounce-to-top smoothScroll" data-wow-delay="1.3s">Discover Now</a>
           </div>
         </div>
@@ -44,7 +44,7 @@
         <div class="row">
           <div class="clearfix"></div>
           <div class="col-md-12 col-sm-12 text-center">
-            <h2 class="titleH2Color">About Us</h2>
+            <h2 class="titleH2Color">Who we are</h2>
             <p>We are team of professionals and experience people in industrial and commercial Interiors field, who are collectively offering the free consultancy to connect the clients with rite products and services in the industry. We are networked with multiple quality products and services in the interior Industry. This platform is just not the networking of clients and products , but to help out the clients to reach the quality product and services at optimum price.</p>
             <a href="about-us.php" class="wow lead fadeInUp smoothScroll" data-wow-delay="1.3s">Read More</a>
           </div>

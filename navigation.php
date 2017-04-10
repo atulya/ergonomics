@@ -7,7 +7,7 @@
       <span class="icon icon-bar"></span>
       <span class="icon icon-bar"></span>
       </button>
-      <a href="/" class="navbar-brand"><img src="images/ergonomics-logo.png" class="img-responsive" width="220px" style="margin: 0 auto;" alt="Ergonomics Logo"></a>
+      <a href="/" class="navbar-brand"><img src="images/ergonomics-logo02.png" class="img-responsive" width="220px" style="margin: 0 auto;" alt="Ergonomics Logo"></a>
     </div>
     <div class="collapse navbar-collapse">
       <ul class="nav navbar-nav navbar-right">
