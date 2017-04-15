@@ -7,23 +7,26 @@
       <span class="icon icon-bar"></span>
       <span class="icon icon-bar"></span>
       </button>
-      <a href="/" class="navbar-brand"><img src="images/ergonomics-logo02.png" class="img-responsive" width="220px" style="margin: 0 auto;" alt="Ergonomics Logo"></a>
+      <a href="/" class="navbar-brand"><img src="images/ergonomics-logo.png" class="img-responsive" width="220px" style="margin: 0 auto;" alt="Ergonomics Logo"></a>
     </div>
     <div class="collapse navbar-collapse">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="index.php" class="smoothScroll">Home</a></li>
         <li><a href="about-us.php" class="smoothScroll">Who we are</a></li>
-        <li><a href="our-expertise.php" class="smoothScroll">Our Expertise</a></li>
+        <li><a href="services.php" class="smoothScroll">What we do</a></li>
+        <!-- <li><a href="our-expertise.php" class="smoothScroll">Our Expertise</a></li> -->
         <li class="dropdown">
           <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Products we offer<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="office-commercial-interiors.php">Office &amp; Commercial Interiors</a></li>
             <li><a href="industrial-interiors-and-exteriors.php">Industrial Interiors &amp; exteriors</a></li>
             <li><a href="residential-interior.php">Residential Interior</a></li>
-            <li><a href="javascript:void(0);">Other Products</a></li>
+            <!-- <li><a href="javascript:void(0);">Other Products</a></li> -->
           </ul>
         </li>
-        <li><a href="services.php" class="smoothScroll">What we do</a></li>
+        <li><a href="javascript:void(0);" class="smoothScroll">Showcase</a></li>
+        <li><a href="javascript:void(0);" class="smoothScroll">Clientele</a></li>
+
         <!-- <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services We Offer <span class="caret"></span></a>
           <ul class="dropdown-menu">

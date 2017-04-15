@@ -15,7 +15,7 @@
       <div class="sk-spinner sk-spinner-pulse"></div>
     </div>
     <?php include "navigation.php"; ?>
-    <section id="video" class="parallax-section">
+    <section id="video" class="parallax-section ">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
@@ -26,37 +26,42 @@
       </div>
     </section>
     <!-- Gallery section -->
-    <div class="container-fluid">
+    <div class="container">
       <div class="row">
         <div class="text-center" style="position: absolute; z-index: 1; width: 100%; padding: 100px 0 0 0;">
-          <div style="background-color: rgba(255, 255, 255, 0.9); width: 40%; margin: 0 auto; padding: 20px;">
-            <h3>Office and commercial Interiors <br><br> Industrial Interiors and exterior work Residential Interiors,<br><br> Design, execution and Project management service<br><br>Retail rework and maintenance services for chairs, furniture, carpets.</h3>
+          <div class="ourExperties">
+
           </div>
         </div>
-        <div class="col-md-3">
-          <div class="row galleryGrid">
-            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
-              <!-- Carousel items -->
-              <div class="carousel-inner">
-                <div class="active item"><img src="images/gallery-img1.jpg" alt=""></div>
-                <div class="item"><img src="images/gallery-img8.jpg" alt=""></div>
-                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+        <div class="gridGallery">
+          <div class="col-md-3">
+            <div class="row galleryGrid">
+              <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                <!-- Carousel items -->
+                <div class="carousel-inner">
+                  <div class="active item"><img src="images/gallery-img1.jpg" alt=""></div>
+                  <div class="item"><img src="images/gallery-img8.jpg" alt=""></div>
+                  <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+                </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-md-3">
-          <div class="row galleryGrid">
-            <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
-              <!-- Carousel items -->
-              <div class="carousel-inner">
-                <div class="active item"><img src="images/gallery-img8.jpg" alt=""></div>
-                <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
-                <div class="item"><img src="images/gallery-img1.jpg" alt=""></div>
+        <div class="gridGallery">
+          <div class="col-md-3">
+            <div class="row galleryGrid">
+              <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                <!-- Carousel items -->
+                <div class="carousel-inner">
+                  <div class="active item"><img src="images/gallery-img8.jpg" alt=""></div>
+                  <div class="item"><img src="images/gallery-img9.jpg" alt=""></div>
+                  <div class="item"><img src="images/gallery-img1.jpg" alt=""></div>
+                </div>
               </div>
             </div>
           </div>
         </div>
+        <div class="gridGallery">
         <div class="col-md-3">
           <div class="row galleryGrid">
             <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">

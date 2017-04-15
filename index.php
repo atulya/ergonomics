@@ -15,13 +15,14 @@
       <div class="sk-spinner sk-spinner-pulse"></div>
     </div>
     <!-- Home section -->
-    <section style="position: relative;" id="home" class="parallax-section">
+    <section style="position: relative; margin-top: 50px; border: 3px solid #999;" id="home" class="parallax-section container">
       <div class="gradient-overlay"></div>
       <div class="container">
         <div class="row">
           <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
-            <img src="images/ergonomics-logo02.png" class="img-responsive" width="500px" style="margin: 0 auto;" alt="Ergonomics Logo">
-            <a href="#feature" class="wow fadeInUp btn btn-default hvr-bounce-to-top smoothScroll" data-wow-delay="1.3s">Discover Now</a>
+            <img src="images/ergonomics-logo.png" class="img-responsive" width="500px" style="margin: 0 auto; margin-top: -210px;" alt="Ergonomics Logo">
+            <!-- <a href="#feature" class="wow fadeInUp btn btn-default hvr-bounce-to-top smoothScroll" data-wow-delay="1.3s">Discover Now</a> -->
+            <a href="about-us.php" class="wow fadeInUp btn btn-default hvr-bounce-to-top smoothScroll" data-wow-delay="1.3s">Discover Now</a>
           </div>
         </div>
       </div>
@@ -33,13 +34,13 @@
           <a href="javascript:void();" class="col-md-3 thumbnil thumbFour"></a>
         </div>
       </div>
-      <marquee behavior="" direction="left" style="position: absolute; bottom: 0">
-      <h2 class="wow fadeInUp" data-wow-delay="1.0s" style="color: #ff9800;">Products, services for Office, Commercial, Industrial &amp; Residential Interiors.</h2>
+      <marquee behavior="" direction="left" scrollamount="8" scrolldelay="2" style="position: absolute; bottom: 0">
+      <h2 class="wow fadeInUp" style="color: #ff9800; font-size: 24px;">Products, services for Office, Commercial, Industrial &amp; Residential Interiors.</h2>
       </marquee>
     </section>
     <?php include "navigation.php"; ?>
     <!-- Team section -->
-    <section id="feature" class="parallax-section paddingTopBottom50">
+    <!-- <section id="feature" class="parallax-section paddingTopBottom50">
       <div class="container">
         <div class="row">
           <div class="clearfix"></div>
@@ -49,7 +50,8 @@
             <a href="about-us.php" class="wow lead fadeInUp smoothScroll" data-wow-delay="1.3s">Read More</a>
           </div>
         </div>
-      </section>
+      </div>
+    </section> -->
       <div class="container hidden-xs hidden-sm hidden-md">
         <div class="row">
           <div class="wow fadeInUp section-title" data-wow-delay="0.3s">
