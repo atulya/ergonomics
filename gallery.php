@@ -30,6 +30,7 @@
       <div class="container">
         <div class="row">
           <!-- 2. Create links -->
+          <h3 class="text-center">Industrial Interior Exterior</h3>
           <div class="col-md-3">
             <a data-fancybox="gallery" href="images/industrial-interior-exterior/1.jpg"><img src="images/industrial-interior-exterior/1.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
           </div>
@@ -43,6 +44,96 @@
             <a data-fancybox="gallery" href="images/industrial-interior-exterior/4.jpg"><img src="images/industrial-interior-exterior/4.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
           </div>
           <div class="clearfix"></div>
+        </div>
+        <div class="row">
+          <h3 class="text-center">Office and Commercial</h3>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/ceilings/1.jpg"><img src="images/office-and-commercial/ceilings/1.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/ceilings/2.jpg"><img src="images/office-and-commercial/ceilings/2.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/ceilings/3.jpg"><img src="images/office-and-commercial/ceilings/3.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/ceilings/4.jpg"><img src="images/office-and-commercial/ceilings/4.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+        </div>
+        <div class="row">
+          <h3></h3>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/chairs/1.jpg"><img src="images/office-and-commercial/chairs/1.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/chairs/2.jpg"><img src="images/office-and-commercial/chairs/2.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/modular/1.jpg"><img src="images/office-and-commercial/modular/1.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/modular/2.jpg"><img src="images/office-and-commercial/modular/2.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="row">
+          <h3></h3>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/modular/3.jpg"><img src="images/office-and-commercial/modular/3.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/modular/4.jpg"><img src="images/office-and-commercial/modular/4.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/modular/5.jpg"><img src="images/office-and-commercial/modular/5.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/modular/6.jpg"><img src="images/office-and-commercial/modular/6.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="row">
+          <h3></h3>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/partitations/1.jpg"><img src="images/office-and-commercial/partitations/1.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/partitations/2.jpg"><img src="images/office-and-commercial/partitations/2.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/partitations/3.jpg"><img src="images/office-and-commercial/partitations/3.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/office-and-commercial/partitations/4.jpg"><img src="images/office-and-commercial/partitations/4.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="row">
+          <h3></h3>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/residential/1.jpg"><img src="images/residential/1.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/residential/3.jpg"><img src="images/residential/3.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/residential/4.jpg"><img src="images/residential/4.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/residential/5.jpg"><img src="images/residential/5.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="row">
+          <h3></h3>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/residential/6.jpg"><img src="images/residential/6.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="col-md-3">
+            <a data-fancybox="gallery" href="images/residential/7.jpg"><img src="images/residential/7.jpg" width="250px" class="img-responsive" alt="industrial interior exterior"></a>
+          </div>
+          <div class="clearfix"></div>
+          <h3></h3>
         </div>
       </div>
     </section>

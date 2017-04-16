@@ -15,50 +15,91 @@
       <div class="sk-spinner sk-spinner-pulse"></div>
     </div>
     <?php include "navigation.php"; ?>
-    <!-- <section id="map" class="parallax-section">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1251.258476985588!2d73.80532893308049!3d18.511667057664773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfb06a8ec7b1%3A0xeece2069ce93bb25!2sKanchanban+Society!5e0!3m2!1sen!2sin!4v1488605381185" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
-    </section> -->
     <section id="video" class="parallax-section">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
           <div class="col-md-offset-2 col-md-8 col-sm-12">
-            <h2 class="wow fadeInUp" data-wow-delay="0.5s">Talk to us</h2>
+            <h2 class="wow fadeInUp" data-wow-delay="0.5s">Clientele</h2>
           </div>
         </div>
       </div>
     </section>
     <!-- About section -->
-    <section id="about" class="parallax-section">
+    <section id="about" class="parallax-section clienteleLogo">
       <div class="container">
         <div class="row">
           <div class="clearfix"></div>
           <div id="contact" class="wow fadeInUp" data-wow-delay="0.5s">
             <!-- flexslider -->
-            <form id="contact-form" name="contactform" method="post" action="send_form_email.php">
-              <div class="col-md-6">
-                <input class="form-control" type="text" placeholder="First Name" name="first_name" maxlength="50" size="30">
-              </div>
-              <div class="col-md-6">
-                <input class="form-control" type="text" placeholder="Last Name" name="last_name" maxlength="50" size="30">
-              </div>
-              <div class="col-md-6">
-                <input class="form-control" type="text" placeholder="Email" name="email" maxlength="80" size="30">
-              </div>
-              <div class="col-md-6">
-                <input class="form-control" type="text" placeholder="Phone" name="telephone" maxlength="30" size="30">
-              </div>
-              <div class="col-md-6">
-              <textarea class="form-control"  name="comments" placeholder="Let us know " maxlength="1000" cols="25" rows="6"></textarea>
-              </div>
-              <div class="col-md-6">
-              <input class="btn btn-primary" type="submit" value="&#xf003; Send">
-              </div>
-            </form>
-          </div>
-          <div class="wow fadeInUp col-md-7 col-sm-12" data-wow-delay="0.9s">
-            <form action="">
-            </form>
+            <div class="col-md-3">
+              <img src="images/clientele/ksb.jpg" alt="KSB">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/Atlas_Copco_logo.svg.png" alt="Atlas Copco">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/innovapoint.png" alt="Innovapoint">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/bitwiselogo.png" alt="bitwise">
+            </div>
+
+            <div class="col-md-3">
+              <img src="images/clientele/talentbeat.jpg" alt="talentbeat">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/sandvik.jpg" alt="sandvik">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/bharatforge.jpg" alt="Bharat Forge">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/tataMotors.jpg" alt="TATA Motors">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/thoughtworks.png" alt="thoughtworks">
+            </div>
+
+            <div class="col-md-3">
+              <img src="images/clientele/solitaireconstructions.jpg" alt="solitaire constructions">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/kolte-patil-developers.jpg" alt="kolte patil developers">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/evolve-technologies.png" alt="evolve technologies">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/eq-logo.png" alt="eq logo">
+            </div>
+
+            <div class="col-md-3">
+              <img src="images/clientele/cvdesign.png" alt="cvdesign">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/ZFINDIA-logo.jpg" alt="ZFINDIA">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/intervolve-logo.png" alt="intervolve logo">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/serum.png" alt="serum">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/advik.jpg" alt="advik">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/tatatoyo.jpg" alt="TATA TOYO">
+            </div>
+            <div class="col-md-3">
+              <img src="images/clientele/Jabil_logo.png" alt="Jabil logo">
+            </div>
+
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
           </div>
         </div>
       </div>

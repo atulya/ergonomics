@@ -1034,6 +1034,12 @@ body,
 .partOne ul{
   margin-left: -15px;
 }
+.clienteleLogo .col-md-3{
+  text-align: center;
+}
+.clienteleLogo .col-md-3 img{
+  width: 150px;
+}
 /* Mobile Responsive */
 @media (max-width: 980px) {
 
