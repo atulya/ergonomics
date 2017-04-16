@@ -24,8 +24,8 @@
             <!-- <li><a href="javascript:void(0);">Other Products</a></li> -->
           </ul>
         </li>
-        <li><a href="javascript:void(0);" class="smoothScroll">Showcase</a></li>
-        <li><a href="javascript:void(0);" class="smoothScroll">Clientele</a></li>
+        <li><a href="gallery.php" class="smoothScroll">Showcase</a></li>
+        <li><a href="clientele.php" class="smoothScroll">Clientele</a></li>
 
         <!-- <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services We Offer <span class="caret"></span></a>

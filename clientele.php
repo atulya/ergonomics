@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>ERGONOMICS | Home</title>
+    <title>ERGONOMICS | Clientele</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -54,6 +54,10 @@
               <div class="col-md-6">
               <input class="btn btn-primary" type="submit" value="&#xf003; Send">
               </div>
+            </form>
+          </div>
+          <div class="wow fadeInUp col-md-7 col-sm-12" data-wow-delay="0.9s">
+            <form action="">
             </form>
           </div>
         </div>
