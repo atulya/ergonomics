@@ -67,10 +67,22 @@
                     <!-- Carousel items partitations-->
                     <div class="carousel-inner">
                       <div class="active item">
-                        <img src="images/office-and-commercial/chairs/1.jpg" class="img-responsive" alt="">
+                        <img src="images/office-and-commercial/chairs/chair1.jpg" class="img-responsive" alt="">
                       </div>
                       <div class="item">
-                        <img src="images/office-and-commercial/chairs/2.jpg" class="img-responsive" alt="">
+                        <img src="images/office-and-commercial/chairs/chair2.jpg" class="img-responsive" alt="">
+                      </div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/chairs/chair3.jpg" class="img-responsive" alt="">
+                      </div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/chairs/chair4.jpg" class="img-responsive" alt="">
+                      </div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/chairs/chair5.jpg" class="img-responsive" alt="">
+                      </div>
+                      <div class="item">
+                        <img src="images/office-and-commercial/chairs/chair6.jpg" class="img-responsive" alt="">
                       </div>
                     </div>
                   </div>
