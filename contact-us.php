@@ -35,7 +35,7 @@
           <div class="clearfix"></div>
           <div id="contact" class="wow fadeInUp" data-wow-delay="0.5s">
             <!-- flexslider -->
-            <form id="contact-form" name="contactform" method="post" action="send_form_email.php">
+            <form action="#" id="form" method="post" name="form">
               <div class="col-md-6">
                 <input class="form-control" type="text" placeholder="Name" name="vname" maxlength="50" size="30">
               </div>
