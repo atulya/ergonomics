@@ -37,24 +37,25 @@
             <!-- flexslider -->
             <form id="contact-form" name="contactform" method="post" action="send_form_email.php">
               <div class="col-md-6">
-                <input class="form-control" type="text" placeholder="First Name" name="first_name" maxlength="50" size="30">
+                <input class="form-control" type="text" placeholder="Name" name="vname" maxlength="50" size="30">
               </div>
               <div class="col-md-6">
-                <input class="form-control" type="text" placeholder="Last Name" name="last_name" maxlength="50" size="30">
-              </div>
-              <div class="col-md-6">
-                <input class="form-control" type="text" placeholder="Email" name="email" maxlength="80" size="30">
+                <input class="form-control" type="text" placeholder="Email" name="vemail" maxlength="80" size="30">
               </div>
               <div class="col-md-6">
                 <input class="form-control" type="text" placeholder="Phone" name="telephone" maxlength="30" size="30">
               </div>
               <div class="col-md-6">
-              <textarea class="form-control"  name="comments" placeholder="Let us know " maxlength="1000" cols="25" rows="6"></textarea>
+                <input class="form-control" type="text" placeholder="Subject" name="sub" maxlength="50" size="30">
               </div>
               <div class="col-md-6">
-              <input class="btn btn-primary" type="submit" value="&#xf003; Send">
+              <textarea class="form-control"  name="msg" placeholder="Let us know " maxlength="1000" cols="25" rows="6"></textarea>
+              </div>
+              <div class="col-md-6">
+              <input class="btn btn-primary" id="send" name="submit" value="Send">
               </div>
             </form>
+            <?php include 'secure_email_code.php' ?>
           </div>
         </div>
       </div>
