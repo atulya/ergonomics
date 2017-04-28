@@ -52,7 +52,7 @@
               <textarea class="form-control"  name="msg" placeholder="Let us know " maxlength="1000" cols="25" rows="6"></textarea>
               </div>
               <div class="col-md-6">
-              <input class="btn btn-primary" id="send" name="submit" value="Send">
+              <input class="btn btn-primary" id="send" name="submit" type="submit" value="Send">
               </div>
             </form>
             <?php include 'secure_email_code.php' ?>
